@@ -1,15 +1,13 @@
-## 1.rm -rf
-## .git git init git add 
-## .git commit -m 'init'
+##  rm -rf
+##  git init 
+##  git add .
+##  git commit -m 'init'
 
-## 2.git remote add origin https://gitee.com/zhang-zhilin-xishan/MiniOB.git
+##  git remote add shop https://github.com/1823814701/shop.git
 
-或者
-git remote add origin https://github.com/KeplerFlow/miniob-2023.git
+##  git branch -M main
 
-## 3.git branch -M main
-
-## 4.git push -u origin main
+##  git push -u shop main
 
 或者使用-f强制覆盖
 git push -f origin main
